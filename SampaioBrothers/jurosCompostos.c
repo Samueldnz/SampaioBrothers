@@ -69,4 +69,3 @@ double tempo50anos(int capital)
     double x = capital*pow(JUROS, 50);
     return x;
 }
-
